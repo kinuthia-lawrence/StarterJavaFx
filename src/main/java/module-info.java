@@ -1,4 +1,4 @@
-module com.larrykin343.starterjavafx {
+module com.larrykin.starterjavafx {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -11,6 +11,6 @@ module com.larrykin343.starterjavafx {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.larrykin343.starterjavafx to javafx.fxml;
-    exports com.larrykin343.starterjavafx;
+    opens com.larrykin.starterjavafx to javafx.fxml;
+    exports com.larrykin.starterjavafx;
 }

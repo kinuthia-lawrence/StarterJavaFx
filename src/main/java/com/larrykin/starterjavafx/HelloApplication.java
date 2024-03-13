@@ -1,4 +1,4 @@
-package com.larrykin343.starterjavafx;
+package com.larrykin.starterjavafx;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
